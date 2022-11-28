@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100vh;
+}
+
+body {
+  background: #ccc;
+  padding: 20px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: #fff;
+  padding: 30px 20px;
+  border-radius: 10px;
+}
